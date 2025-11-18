@@ -84,6 +84,11 @@ npm run dev
 ```
 ---
 
+## 👉 Live Demo
+🔗 https://mealdeals-fe-showcase.vercel.app/
+
+---
+
 ## 📁 Project Structure.
 
 ```bash

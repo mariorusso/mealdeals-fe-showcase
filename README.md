@@ -77,7 +77,7 @@ So this showcase provides recruiters and engineering managers a **meaningful, re
 ## 📦 Running Locally
 
 ```bash
-git clone https://github.com/mariorusso/mealdeals-frontend-showcase.git
+git clone https://github.com/mariorusso//mealdeals-fe-showcase.git
 cd mealdeals-frontend-showcase
 npm install
 npm run dev
